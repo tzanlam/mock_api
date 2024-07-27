@@ -1,9 +1,12 @@
+import { RouterProvider } from 'react-router-dom';
 import './App.css';
-import ModalHome from './components/ModalHome';
-
+import { ToastContainer } from 'react-toastify';import router from "./Routers/index"
 function App() {
   return (
-    <ModalHome/>
+    <>
+    <ToastContainer/>
+    <RouterProvider router={router}/>
+    </>
   );
 }
 

@@ -21,7 +21,10 @@
   }
   
   .ant-btn-primary {
-    background-color: #FF69B4;
-    border-color: #FF69B4;
+    background-color: black;
+    border-color: black;
+  }
+  .ant-btn-primary :hover{
+    background-color: black;
   }
   
