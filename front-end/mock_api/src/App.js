@@ -1,9 +1,9 @@
 import './App.css';
+import ModalHome from './components/ModalHome';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <ModalHome/>
   );
 }
 
