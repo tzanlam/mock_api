@@ -3,7 +3,7 @@
   }
   
   .ant-card {
-    background-color: #F8C2D1; /* Màu hồng nhạt tương tự hình ảnh */
+    background-color: #F8C2D1;
     border-radius: 10px;
     margin-bottom: 10px;
     text-align: center;
@@ -21,7 +21,7 @@
   }
   
   .ant-btn-primary {
-    background-color: #FF69B4; /* Màu hồng đậm hơn */
+    background-color: #FF69B4;
     border-color: #FF69B4;
   }
   
