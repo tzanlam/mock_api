@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Modal, Card, Button } from "antd";
-import "../assets/ModalHome.css";
+import "../assets/support/style/ModalHome.css";
 
 const ModalHome = () => {
   const [isModalVisible, setIsModalVisible] = useState(true);
